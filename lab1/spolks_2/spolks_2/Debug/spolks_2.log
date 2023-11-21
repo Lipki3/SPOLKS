@@ -1,0 +1,3 @@
+﻿  spolks_2.cpp
+C:\Users\user\source\repos\spolks_2\spolks_2\spolks_2.cpp(26,23): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+  spolks_2.vcxproj -> C:\Users\user\source\repos\spolks_2\Debug\spolks_2.exe

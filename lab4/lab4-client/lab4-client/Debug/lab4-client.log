@@ -1,0 +1,3 @@
+﻿  lab4-client.cpp
+C:\Users\user\source\repos\lab4-client\lab4-client\lab4-client.cpp(26,23): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+  lab4-client.vcxproj -> C:\Users\user\source\repos\lab4-client\Debug\lab4-client.exe

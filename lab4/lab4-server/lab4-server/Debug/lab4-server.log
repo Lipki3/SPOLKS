@@ -1,0 +1,3 @@
+﻿  lab4-server.cpp
+C:\Users\user\source\repos\lab4-server\lab4-server\lab4-server.cpp(225,37): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+  lab4-server.vcxproj -> C:\Users\user\source\repos\lab4-server\Debug\lab4-server.exe

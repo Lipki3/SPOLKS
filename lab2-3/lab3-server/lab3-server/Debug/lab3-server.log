@@ -1,0 +1,5 @@
+﻿  lab3-server.cpp
+C:\Users\user\source\repos\lab3-server\lab3-server\lab3-server.cpp(130,37): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\user\source\repos\lab3-server\lab3-server\lab3-server.cpp(173,37): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\user\source\repos\lab3-server\lab3-server\lab3-server.cpp(345,37): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+  lab3-server.vcxproj -> C:\Users\user\source\repos\lab3-server\Debug\lab3-server.exe

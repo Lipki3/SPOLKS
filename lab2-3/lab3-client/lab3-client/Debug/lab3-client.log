@@ -1,0 +1,7 @@
+﻿  lab3-client.cpp
+C:\Users\user\source\repos\lab3-client\lab3-client\lab3-client.cpp(43,23): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\user\source\repos\lab3-client\lab3-client\lab3-client.cpp(193,37): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\user\source\repos\lab3-client\lab3-client\lab3-client.cpp(356,37): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\user\source\repos\lab3-client\lab3-client\lab3-client.cpp(386,12): warning C4101: readSet: неиспользованная локальная переменная
+C:\Users\user\source\repos\lab3-client\lab3-client\lab3-client.cpp(387,13): warning C4101: timeout: неиспользованная локальная переменная
+  lab3-client.vcxproj -> C:\Users\user\source\repos\lab3-client\Debug\lab3-client.exe
